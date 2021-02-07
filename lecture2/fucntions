@@ -1,0 +1,14 @@
+# cleaner code , readable , code segregation 
+
+# function is basically a unit of task 
+
+# arithmetic operations -->  + , - , * , / 
+
+# sum , sub, mul , div 
+
+
+
+print("value=", value)  -> it accepts 2 parameter values 
+
+print("value= , value, value + 1 )
+

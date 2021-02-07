@@ -1,0 +1,8 @@
+# each .py extension file is a module 
+
+# each program file is a module 
+
+# library is a collection of modules 
+
+# each module can contain multiple functions . 
+
